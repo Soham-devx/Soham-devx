@@ -21,16 +21,11 @@
   </div><br>
 
 ---
-
-### 📫 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/your-link">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+<p align="center">🚀where to find me</p>
+  <div align="center">
+  <a href="https://github.com/sohamidk">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="github logo"  />
+    </a>
 
 
 
