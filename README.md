@@ -48,3 +48,12 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="github logo"  />
     </a>
   </div><br>
+
+  <h2 align="center">My activity</h2>
+  <br clear="both">
+    <picture><img src="https://pacman.abozanona.me?username=ddrayko" alt="pacman graph, actually"/></picture>
+  <br><div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
+<br><p align="center">⭐️ ddrayko - <a href="https://github.com/ddrayko">@ddrayko</a></p>
+
