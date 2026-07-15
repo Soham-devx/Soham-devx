@@ -12,12 +12,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" width="32" />
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="32" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" width="32"/>
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="32"/>
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="c++" width="32"/>
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" width="32"/>
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" width="32"/>
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="java" width="32"/>
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="32"/>
     <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="32"/>
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" width="32"/>
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="c" width="32"/>
+ 
   </div><br>
 
 ---
