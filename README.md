@@ -7,16 +7,18 @@
 
 ---
 
-### 💻 I Code With:
-<p>
- 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-   
-    
-</p>
+ <p align="center">💻 The stack I hang out with the most</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" width="32" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="32" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" width="32"/>
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="32"/>
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" width="32"/>
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" width="32"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="32"/>
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="32"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" width="32"/>
+  </div><br>
 
 ---
 
@@ -31,9 +33,11 @@
 </p>
 
 
-  <h2 align="center">My activity</h2>
+<h2 align="center">My activity</h2>
   <br clear="both">
     <picture><img src="https://pacman.abozanona.me?username=soham" alt="pacman graph, actually"/></picture>
-  <br>
-<br><p align="center">⭐️ Soham - <a href="https://github.com/sohamidk">@Soham</a></p>
+  <br><div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
+<br><p align="center">⭐️ soham - <a href="https://github.com/ddrayko">@soham</a></p>
 
