@@ -33,11 +33,4 @@
 </p>
 
 
-<h2 align="center">My activity</h2>
-  <br clear="both">
-    <picture><img src="https://pacman.abozanona.me?username=soham" alt="pacman graph, actually"/></picture>
-  <br><div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
-  </div>
-<br><p align="center">⭐️ soham - <a href="https://github.com/ddrayko">@soham</a></p>
 
